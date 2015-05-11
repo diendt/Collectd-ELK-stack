@@ -162,3 +162,8 @@ Thực hiện tương tự với plugin memory ta được kết quả như sau
 
 Đây là các plugin cần thiết để hiển thị, ngoài ra bạn cũng có thể hiển thị các thông tin cần thiết khác tùy vào hoàn cảnh sử dụng
 
+-----
+
+Tham khảo:
+
+- https://mtalavera.wordpress.com/2015/02/16/monitoring-with-collectd-and-kibana/
